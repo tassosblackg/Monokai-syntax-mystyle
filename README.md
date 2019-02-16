@@ -5,7 +5,7 @@ Atom Editor Monokai Syntax, with my style
 
 - Change syntax color and background according my perosnal taste
 
-- Check preview image.
+- Check preview (Mystyle.png) image.
 
 for the original Monokai package see:
 
